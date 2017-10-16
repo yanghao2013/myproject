@@ -56,6 +56,7 @@ INSTALLED_APPS = [
     'djangocms_style',
     'djangocms_column',
     'myapp',
+    'logger_demo'
 
 ]
 
